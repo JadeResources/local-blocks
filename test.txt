@@ -1,6 +1,6 @@
-127.0.0.1 localhost #IPv4 localhost
+
 
 #
 # AD SERVERS START HERE
 #
-127.0.0.1	cheese.com
+cheese.com
